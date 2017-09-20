@@ -19,9 +19,9 @@ Por último cabe destacar que si sumamos todas las cantidades anteriores tenemos
 ## Ejercicio 2 Usando las tablas de precios de servicios de alojamiento en Internet “clásicos”, es decir, que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa sólo el 1% o el 10% del tiempo.
 
 
-[Servidor dedicado: ](https://www.hostalia.com/dedicados/?gclid=CjwKCAjwo4jOBRBmEiwABWNaMVUFJZe6YO8shQiYPI_JvG2zLmE2AQH01ZmJoAxtYjlZ9m4SGVdfbBoChyEQAvD_BwE)
+[Servidor dedicado ](https://www.hostalia.com/dedicados/?gclid=CjwKCAjwo4jOBRBmEiwABWNaMVUFJZe6YO8shQiYPI_JvG2zLmE2AQH01ZmJoAxtYjlZ9m4SGVdfbBoChyEQAvD_BwE)
 
-[Cloud Server:] (https://www.arsys.es/servidores/cloud?s=cpc&c=315965763&a=19240942683&gclid=CjwKEAjwo4jOBRDmqsavuLfl9CYSJAAFY1oxYoTii-dnyaXpvECf_o18hnbf4Do4h4h358G6gLwG0hoCgK7w_wcB)
+[Cloud Server ](https://www.arsys.es/servidores/cloud?s=cpc&c=315965763&a=19240942683&gclid=CjwKEAjwo4jOBRDmqsavuLfl9CYSJAAFY1oxYoTii-dnyaXpvECf_o18hnbf4Do4h4h358G6gLwG0hoCgK7w_wcB)
 
 Las características de los dos servidores:
 
@@ -57,7 +57,7 @@ Mi salida de la orden de flag es la siguiente :
         flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch epb intel_pt tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap xsaveopt dtherm ida arat pln pts
 
 
-Al usar una máquina virtual y escribir el comando egrep '^flags.*(vmx|svm)' /proc/cpuinfo no me aparece nada 
+Al usar una máquina virtual y escribir el comando egrep '^flags.*(vmx|svm)' /proc/cpuinfo no me aparece nada,
 el procesador si sale el mismo.
 
 
