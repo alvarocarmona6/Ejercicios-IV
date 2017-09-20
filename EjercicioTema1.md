@@ -1,6 +1,6 @@
 # Álvaro Carmona Oliva
 
-##Ejercicio 1 Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años. 
+## Ejercicio 1 Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años. 
 Voy a usar [QNAP TVS-882ST3-i7-16G](https://qloudea.com/qnap-tvs-882st3-i7-16g?gclid=CjwKCAjwo4jOBRBmEiwABWNaMSWTd84I-7HuPKFLoH4UqMnd1CRMTKpemFS7PSCQ869zYUzZd1WXdBoCsF0QAvD_BwE)
 
 Su precio con IVA es de 3.023,89 € si le quitamos el IVA quedaría:
