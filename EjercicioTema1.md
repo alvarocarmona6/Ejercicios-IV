@@ -71,8 +71,10 @@ Primero me he tenido que instalar un paquete para usar el comando kvm-ok y esto 
 El hipervisor que tengo instalado es VirtualBox
 
 
+## Ejercicio 5 Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.
 
 
+Pidiendo el código al profesor de Azure me doy de alta en la plataforma
 
 
 
