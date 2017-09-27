@@ -77,7 +77,11 @@ El hipervisor que tengo instalado es VirtualBox
 Pidiendo el código al profesor de Azure me doy de alta en la plataforma
 ![ejercicio5](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/capturaEj5.png)
 
+## Ejercicio 6 Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
 
+
+Dentro de nuestra cuenta de Azure buscamos DevTest Labs
+![ejercicio6](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/capturaEJ6.png)
 
 
 
