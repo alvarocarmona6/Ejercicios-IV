@@ -75,6 +75,8 @@ El hipervisor que tengo instalado es VirtualBox
 
 
 Pidiendo el código al profesor de Azure me doy de alta en la plataforma
+![ejercicio5](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/capturaEj5.png)
+
 
 
 
