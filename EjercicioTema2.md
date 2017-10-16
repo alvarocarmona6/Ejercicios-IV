@@ -8,7 +8,8 @@ En el repositorio [siguiente](https://github.com/alvarocarmona6/tdd-gdg) he aña
 Tanto en el ejercicio anterior como en mi proyecto he utilizado test he probado que fallen y posteriormente lo he arreglado para que pasen los test.
 
 ## 3. Convertir los tests unitarios anteriores con assert a programas de test y ejecutarlos desde mocha, usando descripciones del test y del grupo de test de forma correcta. Si hasta ahora no has subido el código que has venido realizando a GitHub, es el momento de hacerlo, porque lo vas a necesitar un poco más adelante.
-He utilizado [pocha](https://github.com/rlgomes/pocha), la instalación viene en el enlace anterior. He modificado el test.py del ejercicio 1 con lo siguiente
+He utilizado [pocha](https://github.com/rlgomes/pocha), la instalación viene en el enlace anterior. He modificado el test.py del ejercicio 1 con lo siguiente:
+
 	@it('testing sobre la operacion numero bisiesto') 
  	def testBisiesto():
 	assert Bisiesto(2016) == True
