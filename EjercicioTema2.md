@@ -18,3 +18,8 @@ el resultado ha sido el siguiente:
 ![captura](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/ejercicio3.png)
 
 
+## 4. Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión minor más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).
+He instalado virtualenv y una vez instalado voy a instalar dentro de virtualenv python2.7 y python3.5. El comando utilizado para instalar virtualenv ha sido:
+        sudo apt-get install virtualenv python-virtualenv
+
+![captura](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/captura4.png)
