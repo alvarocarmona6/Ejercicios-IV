@@ -11,8 +11,8 @@ Tanto en el ejercicio anterior como en mi proyecto he utilizado test he probado 
 He utilizado [pocha](https://github.com/rlgomes/pocha), la instalación viene en el enlace anterior. He modificado el test.py del ejercicio 1 con lo siguiente:
 
         @it('testing sobre la operacion numero bisiesto') 
- 	def testBisiesto():
-	assert Bisiesto(2016) == True
+        def testBisiesto():
+        assert Bisiesto(2016) == True
 
 el resultado ha sido el siguiente:
 ![captura](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/ejercicio3.png)
