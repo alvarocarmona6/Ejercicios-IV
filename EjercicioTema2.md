@@ -22,5 +22,5 @@ el resultado ha sido el siguiente:
 He instalado virtualenv y una vez instalado voy a instalar dentro de virtualenv python2.7 y python3.5. El comando utilizado para instalar virtualenv ha sido:
 
         sudo apt-get install virtualenv python-virtualenv
-
+Y posteriormente hago lo siguiente :
 ![captura](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/captura4.png)
