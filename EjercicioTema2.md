@@ -24,3 +24,15 @@ He instalado virtualenv y una vez instalado voy a instalar dentro de virtualenv 
         sudo apt-get install virtualenv python-virtualenv
 Y posteriormente hago lo siguiente :
 ![captura](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/captura4.png)
+
+## 5. Como ejercicio, algo ligeramente diferente: una web para calificar las empresas en las que hacen prácticas los alumnos.
+
+En este ejercicio voy a usar mi proyecto que está en fase de desarrollo y tiene algunas funcionalidades hechas. [repo](https://github.com/alvarocarmona6/ProyectoIV)
+
+
+## 6. Ejecutar el programa en diferentes versiones del lenguaje. ¿Funciona en todas ellas?
+
+En mi caso y de momento en el código de mi programa no hay ningun tipo de problema.
+![captura](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/captura6.png)
+
+
