@@ -8,11 +8,16 @@ Lo volvemos a comprobar con el kvm-ok
 
 ## 2. Crear varias máquinas virtuales con algún sistema operativo libre tal como Linux o BSD. Si se quieren distribuciones que ocupen poco espacio con el objetivo principalmente de hacer pruebas se puede usar CoreOS (que sirve como soporte para Docker) GALPon Minino, hecha en Galicia para el mundo, Damn Small Linux, SliTaz (que cabe en 35 megas) y ttylinux (basado en línea de órdenes solo).
 Voy a instalar DSL , primero creamos el disco duro con
+
+
         qemu-img create -f qcow2 servidor.img 8G
 
 ![captura](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/captura5-2.png)
 
 y luego el siguiente comando (tenemos que tener la iso de dsl descargada)
+
+
+        qemu-system-x86_64 -hda servidor.img -cdrom dsl-4.1.rc1.iso    
 
 ![captura](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/captura5-22.png)
 
