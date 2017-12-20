@@ -27,8 +27,20 @@ Lo he realizado en mi  [proyecto](https://github.com/alvarocarmona6/ProyectoIV/)
 
 
 ## 6. Instalar una máquina virtual con Linux Mint para el hipervisor que tengas instalado.
-Lo he realizado en mi  [proyecto](https://github.com/alvarocarmona6/ProyectoIV/).
+Voy a instalar DSL , primero creamos el disco duro con
 
+
+        qemu-img create -f qcow2 linxmint.img 8G
+
+![captura](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/captura6-1.png)
+
+y luego el siguiente comando (tenemos que tener la iso de dsl descargada)
+
+
+        qemu-system-x86_64 -hda linxmint.img -cdrom linuxmint-18.3-cinnamon-32bit.iso 
+
+
+![captura](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/capturas/captura6-22.png)
 
 
 
